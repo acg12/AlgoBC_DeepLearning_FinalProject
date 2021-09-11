@@ -5,3 +5,6 @@ Welcome to my Deep Learning Final Project for Algorithm Bootcamp. The objective 
 The dataset consists of chest x-rays of normal/healthy lungs and lungs infected by a pneumonia-like disease.
 
 My final model got an average recall score of ... and an AUC score of ....
+
+## Acknowledgements
+The dataset used in this project was taken from Kaggle. You can find it here: [CoronaHack - Chest X-Ray - Dataset](https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset)
